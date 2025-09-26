@@ -1,42 +1,71 @@
-# Portfolio Blog Starter
+# a16z Speedrun Tips & Community
 
-This is a porfolio site template complete with a blog. Includes:
+🚀 **Open-source resource for founders and community members working on applying to the a16z Speedrun program**
 
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
+This repository serves as a collaborative space where founders, entrepreneurs, and community members can share insights, tips, and experiences about the [a16z Speedrun program](https://speedrun.a16z.com/).
 
-## Demo
+## About a16z Speedrun
 
-https://portfolio-blog-starter.vercel.app
+The a16z Speedrun program is a 12-week accelerator that invests up to $1M in new startups. The program provides:
 
-## How to Use
+- **Direct Investment**: Up to $1M from a16z speedrun
+- **1:1 Mentorship**: Hands-on coaching with industry leaders
+- **Community**: Access to 500+ founders and exclusive resources
+- **Perks**: $5M in free credits, in-house recruiters, and more
 
-You can choose from one of the following two methods to use this repository:
+## How to Contribute
 
-### One-Click Deploy
+We welcome contributions from:
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
+- **Current applicants** sharing their application experience
+- **Program alumni** providing insights and tips
+- **Community members** with relevant resources and advice
+- **Anyone** with valuable information about the program
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/blog&project-name=blog&repository-name=blog)
+### Ways to Contribute
 
-### Clone and Deploy
+1. **Share Application Tips**: Document your application process, what worked, and lessons learned
+2. **Interview Insights**: Share experiences from the interview process
+3. **Program Experience**: If you're an alum, share what the program was like
+4. **Resource Links**: Add helpful resources, articles, or tools
+5. **Community Support**: Answer questions and help other applicants
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
+### Getting Started
 
-```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
-```
+1. Fork this repository
+2. Create a new branch for your contribution
+3. Add your content (tips, experiences, resources)
+4. Submit a pull request
 
-Then, run Next.js in development mode:
+## Repository Structure
 
-```bash
-pnpm dev
-```
+- `app/` - Next.js application for hosting the community resources
+- `docs/` - Community-contributed documentation and tips
+- `resources/` - Curated resources and links
+- `experiences/` - Personal experiences and case studies
 
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+## Community Guidelines
+
+- Be respectful and supportive
+- Share authentic experiences
+- Help others succeed
+- Keep content relevant to the a16z Speedrun program
+- Follow standard open-source contribution guidelines
+
+## ⚠️ Important Disclaimer
+
+**This repository is NOT affiliated with, endorsed by, or related to the a16z Speedrun program in any way.**
+
+This is an **unofficial, community-driven resource** created by independent developers and entrepreneurs. It is not connected to a16z, Andreessen Horowitz, or the official Speedrun program. All information is shared by community members and should be verified independently through official channels.
+
+**Always refer to the official a16z Speedrun website for accurate, up-to-date information about the program.**
+
+## Links
+
+- [Official a16z Speedrun Website](https://speedrun.a16z.com/)
+- [Apply to the Program](https://speedrun.a16z.com/apply)
+- [Program FAQ](https://speedrun.a16z.com/faq)
+
+---
+
+**Ready to help the community? Start by sharing your experience or contributing to existing resources!**
